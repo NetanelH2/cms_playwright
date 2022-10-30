@@ -1,0 +1,5 @@
+export const validMail = 'test@test.com'
+export const invalidMail = 'test@test'
+export const validOTP = '0000'
+export const invalidOTP = '1234'
+export const URL = 'https://dev-admin.hyfitgear.com/'
